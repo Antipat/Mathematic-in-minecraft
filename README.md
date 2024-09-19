@@ -1,4 +1,4 @@
-# Mathematic-in-minecraft
+# python_minecraft
 Программы для работы с книгой "Python. Великое программирование в Minecraft"
 Каждая программа соответствует главе, в которой изучается особенности программирования.
 
@@ -19,11 +19,11 @@
 
 Скачать сервер Spigot для minecraft 1.19 вы можете, пройдя по ссылке https://disk.yandex.ru/d/he_W8RpxhfYYkw
 
-Скачать сервер Spigot для minecraft 1.19.1 вы можете, пройдя по ссылке https://disk.yandex.ru/d/s5IuiBiCm-tuog
-
-Скачать сервер Spigot для minecraft 1.19.2 вы можете, пройдя по ссылке https://disk.yandex.ru/d/mS7OjBhk_fQouw
+Скачать сервер Spigot для minecraft 1.19.1 вы можете, пройдя по ссылке https://disk.yandex.ru/d/s5IuiBiCm-tuog 
 
 Скачать сервер Spigot для minecraft 1.20.4 вы можете, пройдя по ссылке https://disk.yandex.ru/d/ti-zbIL51uNoag
+
+Скачать сервер Spigot для minecraft 1.21 вы можете, пройдя по ссылке https://disk.yandex.ru/d/49y1Wz3UiP2Ndw
 
 
 ВАЖНО!!!!
@@ -34,9 +34,12 @@
 
 Для сервера под minecraft 1.19 можно использовать Java 17 и выше.
 
+Для сервера minecraft 1.21 нужен Java 21 (Java jdk 1.21)
+
 Если при запуске сервера выходит ошибка, то скорее всего вам нужно установить одну из этих Java.
 
-Ссылки на них прикладываю: 
+Ссылки на них прикладываю:
+- Java 21 - https://disk.yandex.ru/d/a-xOisjfSF2JsA
 - Java 17  - https://disk.yandex.ru/d/sY1lAXRi0sxnrw
 - Java 8  - https://disk.yandex.ru/d/MZ8rmHdSBcSAGg
 
